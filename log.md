@@ -1,4 +1,4 @@
-# 1000 Days of ML Code Challenge - Log
+# 100 Days of ML Code Challenge - Log
 
 ## Day 1
 
