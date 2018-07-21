@@ -29,7 +29,9 @@ My day of glory as #1 on the leaderboard is over.    My solution didn't even bea
 I used a keras sequential model. Since there is so little data, it is no surprise that would not be the best solution.
 
 Today, I implemented an Support Vector solution.  Again, the bulk of time involved getting the training and testing data 
-into the right formats.   I did no tuning, but still my SVM solution beat the linear regression model.  Another user is now at number #1, but I'm #2 for for.    I'm going to take the data camp course on Support Vector Machines and refine this 
+into the right formats.   I did no tuning, but still my SVM solution beat the linear regression model.  Another user is now at number #1, but I'm #2 for now.    
+
+I'm going to take the data camp course on Support Vector Machines and refine this 
 solution, but will leave that for Day 3.
 
 I also listened to an episode or two of "Machine Learning Guide" podcast.
